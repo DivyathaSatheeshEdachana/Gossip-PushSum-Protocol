@@ -18,17 +18,17 @@ Divyatha Satheeshan Edachana | UFID : 0710-8354
 ### Gossip :-
 
 <ul>
-<li>Full : </li>
-<li>Line : </li>
-<li>2D : </li>
-<li>Imp2D : </li>
+<li>Full : 10000</li>
+<li>Line : 5000</li>
+<li>2D : 10000</li>
+<li>Imp2D : 10000</li>
 </ul>
 
 ### Push Sum :-
 
 <ul>
-<li>Full : </li>
-<li>Line : </li>
+<li>Full : 5000</li>
+<li>Line : 1000</li>
 <li>2D : </li>
 <li>Imp2D : </li>
 </ul>
