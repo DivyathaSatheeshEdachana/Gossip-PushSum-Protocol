@@ -29,6 +29,6 @@ Divyatha Satheeshan Edachana | UFID : 0710-8354
 <ul>
 <li>Full : 5000</li>
 <li>Line : 1000</li>
-<li>2D : </li>
+<li>2D : 10000</li>
 <li>Imp2D : </li>
 </ul>
